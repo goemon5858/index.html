@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link href="https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+<h1>NOと言わない人</h1>
+<div class="face"></div>
+<p>for iOS 17.4+</p>
+</body>
+</html>
